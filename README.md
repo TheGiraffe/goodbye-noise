@@ -5,3 +5,4 @@ Attempting to use some stuff I learned in DSP back in uni to reduce some annoyin
 - [https://www.mathworks.com/help/audio/ug/active-noise-control-using-a-filtered-x-lms-fir-adaptive-filter.html](https://www.mathworks.com/help/audio/ug/active-noise-control-using-a-filtered-x-lms-fir-adaptive-filter.html)
 - [https://www.musicdsp.org/en/latest/](xhttps://www.musicdsp.org/en/latest/)
 - [https://www.researchgate.net/figure/Frequency-band-spectrum-of-refrigerator-measurements-Full-refrigerator-overall-SPL-of_fig6_342286574](https://www.researchgate.net/figure/Frequency-band-spectrum-of-refrigerator-measurements-Full-refrigerator-overall-SPL-of_fig6_342286574)
+- [https://www.reddit.com/r/DSP/comments/1fy65la/how_do_reduce_noise_from_an_audio_signal_noise/](https://www.reddit.com/r/DSP/comments/1fy65la/how_do_reduce_noise_from_an_audio_signal_noise/)
